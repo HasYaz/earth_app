@@ -1,4 +1,4 @@
-# randomapp
+# Earth App
 
 A new Flutter project.
 
